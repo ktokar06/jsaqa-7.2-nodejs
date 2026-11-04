@@ -1,0 +1,22 @@
+{
+  "name": "jsaqa-7.2-nodejs",
+  "version": "1.0.0",
+  "description": "Netology JSAQA ДЗ 7.2 — настройка VS Code для Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.4",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.14.0",
+    "prettier": "^3.9.10"
+  }
+}
