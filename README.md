@@ -16,3 +16,6 @@ npm start        # запуск index.js
 ```
 
 Отладка: `F5` в VS Code — выполнение остановится на строке `debugger`.
+
+<img width="3072" height="1666" alt="image" src="https://github.com/user-attachments/assets/cec80392-c10f-48b7-afda-cd68add95987" />
+
